@@ -1,9 +1,98 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "users": [
+    {
+      "id": 1,
+      "name": "Piya Patil",
+      "username": "piya123",
+      "email": "piya@gmail.com",
+      "phone": "6325418545",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Siya Patil",
+      "username": "siya123",
+      "email": "siya@gmail.com",
+      "phone": "8545784512",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Kiyara Sharma",
+      "username": "kiya123",
+      "email": "kiyara@gmail.com",
+      "phone": "8546123654",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Nikhi Shaha",
+      "username": "nikhi123",
+      "email": "nikhi@gmail.com",
+      "phone": "9658421584",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Ram Sayane",
+      "username": "ram123",
+      "email": "ram@gmail.com",
+      "phone": "7845874581",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Sarita Gupta",
+      "username": "sari123",
+      "email": "sarita@gmail.com",
+      "phone": "8545785485",
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505-1337"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Nikita Yamgar",
+      "username": "niki123",
+      "email": "nikita@gmail.com",
+      "phone": "9658745218",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099"
+      }
+    }
+  ]
+}
+    
+  ]
 }
